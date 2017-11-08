@@ -1,0 +1,9 @@
+th {
+	border:none !important;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
